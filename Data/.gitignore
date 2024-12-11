@@ -1,0 +1,3 @@
+# Ignore original data files due to confidentiality agreements
+*
+!.gitignore
